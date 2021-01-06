@@ -61,3 +61,4 @@ class Food {
         background(washroom,550,500); 
     }
 }
+}
